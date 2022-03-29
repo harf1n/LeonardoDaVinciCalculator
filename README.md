@@ -1,4 +1,4 @@
-# WebAR-буклет «Leonardo Da Vince Calculator»
+# WebAR-буклет «Leonardo Da Vinci Calculator»
 Буклет створено як результат виконання лабораторної роботи з дисципліни
 «Операційні системи»
 
